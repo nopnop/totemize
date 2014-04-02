@@ -1,4 +1,4 @@
-# totemize [![Build Status](https://secure.travis-ci.org/nopnop/totemize.png?branch=master)](http://travis-ci.org/nopnop/totemize) [![NPM version](https://badge-me.herokuapp.com/api/npm/totemize.png)](http://badges.enytc.com/for/npm/totemize))
+# totemize [![Build Status](https://secure.travis-ci.org/nopnop/totemize.png?branch=master)](http://travis-ci.org/nopnop/totemize) [![NPM version](https://badge-me.herokuapp.com/api/npm/totemize.png)](http://badges.enytc.com/for/npm/totemize)
 
 > An random generator of an adjective and a noun for release name or mnemonic process name
 
