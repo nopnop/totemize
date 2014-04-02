@@ -1,7 +1,7 @@
 {
   "name": "totemize",
   "description": "An random generator of an adjective and a noun for release name or mnemonic process name",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/nopnop/totemize",
   "author": {
     "name": "Jean Ponchon",
